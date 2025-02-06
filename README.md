@@ -1,19 +1,13 @@
-# Internee.pk Replica 🚀  
+Internee.pk Replica (Frontend) 🚀
+This repository contains the frontend replica of the Internee.pk website, created for internship purposes. The goal is to replicate the design and layout of the platform, offering an opportunity to work with modern frontend technologies.
 
-This repository contains a replica of the **Internee.pk** website, developed as part of an internship project. The goal is to recreate the platform’s core functionalities, providing hands-on experience in web development.  
-
-### 📌 Features:  
-- Responsive design matching the original site  
-- User registration & login system  
-- Internship listings & application forms  
-- Basic admin panel for managing applications  
-
-### 🔧 Tech Stack:  
-- **Frontend:** HTML, CSS, JavaScript (React if applicable)  
-- **Backend:** Node.js, Express, PHP, or any relevant technology  
-- **Database:** MySQL, MongoDB, or Firebase  
-
-### 🎯 Purpose:  
-This project is designed to help interns learn real-world development by replicating a functional website. Contributions and improvements are welcome!  
-
-Feel free to fork, modify, and explore! 💻🔥
+📌 Features:
+Fully responsive design
+Internship listings and application forms
+Interactive user interface (UI) for a seamless experience
+🔧 Tech Stack:
+HTML
+CSS (with Flexbox/Grid)
+JavaScript
+🎯 Purpose:
+This project serves as a hands-on learning opportunity for web development interns, focusing on frontend technologies and website structure. Contributions are welcome!
