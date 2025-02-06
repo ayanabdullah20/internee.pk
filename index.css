@@ -1,0 +1,7 @@
+.navmenu ul li a[href="blog.html"],
+.navmenu ul li a[href="contact.html"] {
+  background-color: black;
+  color: white; /* Ensures text is visible */
+  padding: 10px 15px; /* Adds some spacing */
+  border-radius: 5px; /* Optional: Rounds the corners */
+}
